@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 
-#!/usr/bin/env python3
-
 import subprocess
-import time
 import pymsgbox
 
 def messageBox():
